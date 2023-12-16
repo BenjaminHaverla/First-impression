@@ -42,8 +42,8 @@ Nataša Strelová –> 2D Animator
 
 Oto Haverla (My Father) –> Music Composer
 
-# UKUPHILA – experimental project (2021)
-If you would like to know more about this project, don't hesitate to click here.
+# [UKUPHILA – experimental project (2021)](https://github.com/BenjaminHaverla/UKUPHILA-experimental-project.git)
+If you would like to know more about this project, don't hesitate to [click here](https://github.com/BenjaminHaverla/UKUPHILA-experimental-project.git).
 
 ![text description](Images/Green_5.jpg)
 
