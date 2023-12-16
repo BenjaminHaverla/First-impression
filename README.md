@@ -1,6 +1,6 @@
 # Visual storytelling is my passion:
 
-![text description](Images/Profile.png)
+![text description](First-impression-presentation/Images/Profile.png)
 
 ## Benjamín Haverla – Filmmaker:
 
