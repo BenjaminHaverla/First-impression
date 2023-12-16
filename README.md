@@ -52,6 +52,8 @@ If you would like to know more about this project, don't hesitate to [click here
 
 ![text description](Images/Performance_1.png)
 
+-------------------------------------------------------------
+
 # BACK TO THE...
 ## [Main Page (English for designers)](https://github.com/BenjaminHaverla/English-for-designers.git)
 # Contact me:
