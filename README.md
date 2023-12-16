@@ -51,3 +51,6 @@ If you would like to know more about this project, don't hesitate to [click here
 If you would like to know more about this project, don't hesitate to [click here](https://github.com/BenjaminHaverla/The-performance-in-Add.git).
 
 ![text description](Images/Performance_1.png)
+
+# Contact me:
+## **Mail**: haverla.tros@gmail.com
