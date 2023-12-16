@@ -10,7 +10,7 @@ In my homeland of Slovakia, the gift of nature inspires my creativity. To learn 
 
 ## ABOUT MY FEATURED PROJECTS:
 
-My main career goal is to become a film director. I'm aware of the thorny path, a journey intertwined with my passion. That's why I would like to share with you my small steps:
+My main career goal is to become a film director. I'm aware of the thorny path, a journey intertwined with my passion. That's why I would like to [share with you my small steps.](https://github.com/BenjaminHaverla/About-my-featured-projects.git)
 
 ![text description](Images/Team.png)
 
