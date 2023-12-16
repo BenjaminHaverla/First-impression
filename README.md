@@ -25,3 +25,31 @@ My main career goal is to become a film director. I'm aware of the thorny path, 
 In 2020, word about me and my work reached some people, leading me to create videos for clients. Over time, I created my first international short film, blending live-action and animated elements. Garnering awards and nominations, I chose to step into the background actor role, gaining insights into larger-scale film productions. Subsequently, I became an Animation/Film instructor for a kids' camp, held annually for one week. Currently, I'm gaining valuable experience as an intern in Berlin with Erasmus+. During this period, I'm also preparing a new international music video. To see more, [click](https://github.com/BenjaminHaverla/Portfolio.git) without hesitation.
 
 ![text description](Images/Team.png)
+
+# The project I'm working on (2023 – ???)
+![text description](Images/Still_shot_scene1.png)
+![text description](Images/Still_shot_scene2.png)
+
+## About this project:
+
+This is my ambitious project where I am trying to infuse a part of my soul. Why did I start this project? Well, at my university, we are required to create a bachelor animation at the end of the last semester.
+
+Before this, I felt the need to express myself again with a theme of love. I've grown up, and I now perceive the world differently than before. My short film "THE LAST LETTER" was about love and was created in 2021.
+
+Perhaps you can find some connections there, but this new project will be an animated music video about love with a fresh point of view.
+
+## Storyboard
+![text description](Images/Storyboard_1.png)
+![text description](Images/Storyboard_4.png)
+![text description](Images/Storyboard_5.png)
+
+## Challenges:
+We've officially completed 1 minute, but the music video will likely feature 4 minutes of animation. So, there's still a lot ahead of us. I created the storyboard and animatic for my friend, Nataša Strelová. She excels at hand-drawn animation, which is why I chose to collaborate with her.
+
+**Our Team:**
+
+Benjamín Haverla (Me) –> Producer/Director
+
+Nataša Strelová –> 2D Animator
+
+Oto Haverla (My Father) –> Music Composer
