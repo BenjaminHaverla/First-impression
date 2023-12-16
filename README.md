@@ -44,9 +44,10 @@ Oto Haverla (My Father) –> Music Composer
 
 # UKUPHILA – experimental project (2021)
 If you would like to know more about this project, don't hesitate to click here.
+
 ![text description](Images/Green_5.jpg)
 
 # The performance in Add (2018)
-![text description](Images/Performance_1.png)
-
 If you would like to know more about this project, don't hesitate to click here.
+
+![text description](Images/Performance_1.png)
