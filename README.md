@@ -47,7 +47,7 @@ If you would like to know more about this project, don't hesitate to [click here
 
 ![text description](Images/Green_5.jpg)
 
-# The performance in Add (2018)
-If you would like to know more about this project, don't hesitate to click here.
+# [The performance in Add (2018)](https://github.com/BenjaminHaverla/The-performance-in-Add.git)
+If you would like to know more about this project, don't hesitate to [click here](https://github.com/BenjaminHaverla/The-performance-in-Add.git).
 
 ![text description](Images/Performance_1.png)
