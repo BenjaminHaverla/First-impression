@@ -54,7 +54,9 @@ If you would like to know more about this project, don't hesitate to [click here
 
 # 3D Character Animation
 If you would like to know more about my workflow, don't hesitate to [click here]().
-https://github.com/BenjaminHaverla/My-Work/assets/149423594/3ae7a558-d8dc-4f32-96b9-0bd6ea1929b3
+
+https://github.com/BenjaminHaverla/First-impression/assets/149423594/1f77d93d-36aa-4449-b264-320aded864c4 
+
 > *"3D character animation created by Benjamín Haverla (Me)"*
 
 -------------------------------------------------------------
