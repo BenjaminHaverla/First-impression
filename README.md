@@ -52,7 +52,7 @@ If you would like to know more about this project, don't hesitate to [click here
 
 ![text description](Images/Performance_1.png)
 
-# 3D Character Animation
+# [3D Character Animation](https://github.com/BenjaminHaverla/3D-Character-Animation.git)
 If you would like to know more about my workflow, don't hesitate to [click here](https://github.com/BenjaminHaverla/3D-Character-Animation.git).
 
 https://github.com/BenjaminHaverla/First-impression/assets/149423594/1f77d93d-36aa-4449-b264-320aded864c4 
